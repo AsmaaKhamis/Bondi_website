@@ -159,9 +159,9 @@ body{
     background-color: var(--bg-dark);
 }
 /* blog */
-/* .our-blog .card{
+.our-blog .card{
     border:none;
-} */
+}
 /* subscribe */
 .subscribe{
     background-color: var(--yellow-color);
